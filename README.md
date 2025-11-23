@@ -1,2 +1,4 @@
 # Trabalhando-com-listas-em-Python
-Trabalhando com lista em Python
+01 - Listas
+02 - Tuplas
+
